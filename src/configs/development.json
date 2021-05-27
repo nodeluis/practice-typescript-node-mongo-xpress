@@ -1,0 +1,9 @@
+{
+    "env": "development",
+    "dbConfig": {
+        "host": "localhost",
+        "database": "typeproof2",
+        "port": 27017
+    },
+    "secretKey": "secretKey"
+}
